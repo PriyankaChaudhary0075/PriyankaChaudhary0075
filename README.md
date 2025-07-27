@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/priyankach85695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankach85695" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyanka chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyanka chaudhary" height="30" width="40" /></a>
-<a href="https://fb.com/priyanka chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka chaudhary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/priyanka.chaudhary.46125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/_priyanka_123457890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyanka_123457890" height="30" width="40" /></a>
 </p>
 
